@@ -20,9 +20,8 @@ The above command will scan the port 135 for the ip 10.0.1.8
 
 ## SAMPLE OUTPUT
 
-------------------------------------------------------------
+
 Please wait, scanning remote host 10.0.1.8
-------------------------------------------------------------
 
 
  Port 135: 	 Open
